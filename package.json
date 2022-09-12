@@ -1,5 +1,5 @@
 {
-  "name": "faktory-require-jobs",
+  "name": "faktory-node-require-jobs",
   "license": "MIT",
   "scripts": {
     "serve": "faktory",
