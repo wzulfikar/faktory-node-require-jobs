@@ -1,0 +1,12 @@
+{
+  "name": "faktory-require-jobs",
+  "license": "MIT",
+  "scripts": {
+    "serve": "faktory",
+    "start": "yarn faktory-work -r $PWD/jobs",
+    "push-job": "node ./push-job.js"
+  },
+  "dependencies": {
+    "faktory-worker": "^4.5.0"
+  }
+}
