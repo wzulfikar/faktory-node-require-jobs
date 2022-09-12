@@ -3,7 +3,7 @@
   "license": "MIT",
   "scripts": {
     "serve": "faktory",
-    "start": "yarn faktory-work -r $PWD/jobs",
+    "process": "yarn faktory-work -r $PWD/jobs",
     "push-job": "node ./push-job.js"
   },
   "dependencies": {
